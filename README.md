@@ -10,3 +10,11 @@ Masuk ke folder `backend` kemudian jalankan:
 
 ```bash
 npm install
+```
+### 📦 Frontend
+
+Masuk ke folder `frontend` kemudian jalankan:
+
+```bash
+npm install
+```
