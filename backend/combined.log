@@ -1,0 +1,50 @@
+{"level":"info","message":"✅ Server berjalan di port http://localhost:5000","timestamp":"2025-05-18T06:27:28.275Z"}
+{"level":"info","message":"✅ MongoDB terkoneksi","timestamp":"2025-05-18T06:27:28.299Z"}
+{"level":"info","message":"Fetching sentiment statistics","timestamp":"2025-05-18T06:27:32.069Z"}
+{"level":"info","message":"Fetching random reviews","timestamp":"2025-05-18T06:27:32.075Z"}
+{"level":"info","message":"Fetching top keywords from reviews","timestamp":"2025-05-18T06:27:32.079Z"}
+{"level":"info","message":"Generating sentiment analysis","timestamp":"2025-05-18T06:27:32.093Z"}
+{"level":"info","message":"Found 3396 unique products in reviews","timestamp":"2025-05-18T06:27:32.158Z"}
+{"level":"info","message":"Found 3396 unique products in reviews","timestamp":"2025-05-18T06:27:32.285Z"}
+{"level":"info","message":"Found 1000 positive reviews and 1000 negative reviews","timestamp":"2025-05-18T06:27:32.385Z"}
+{"level":"info","message":"Extracted 86 unique keywords (54 positive, 32 negative)","timestamp":"2025-05-18T06:27:32.405Z"}
+{"level":"info","message":"Fetching top keywords from reviews","timestamp":"2025-05-18T06:27:32.453Z"}
+{"level":"info","message":"Total produk: 3687","timestamp":"2025-05-18T06:27:32.460Z"}
+{"level":"info","message":"Fetched 3 random reviews from 114136 total reviews","timestamp":"2025-05-18T06:27:32.747Z"}
+{"level":"info","message":"Fetched stats: 3 sentiment types, 3 distribution items","timestamp":"2025-05-18T06:27:32.762Z"}
+{"level":"info","message":"Fetching random reviews","timestamp":"2025-05-18T06:27:32.768Z"}
+{"level":"info","message":"Found 1000 positive reviews and 1000 negative reviews","timestamp":"2025-05-18T06:27:32.793Z"}
+{"level":"info","message":"Extracted 86 unique keywords (54 positive, 32 negative)","timestamp":"2025-05-18T06:27:32.809Z"}
+{"level":"info","message":"Fetching sentiment statistics","timestamp":"2025-05-18T06:27:32.810Z"}
+{"level":"info","message":"Generated sentiment analysis and recommendations","timestamp":"2025-05-18T06:27:32.928Z"}
+{"level":"info","message":"Generating sentiment analysis","timestamp":"2025-05-18T06:27:32.939Z"}
+{"level":"info","message":"Total produk: 3687","timestamp":"2025-05-18T06:27:32.973Z"}
+{"level":"info","message":"Fetched 3 random reviews from 114136 total reviews","timestamp":"2025-05-18T06:27:33.022Z"}
+{"level":"info","message":"Fetched stats: 3 sentiment types, 3 distribution items","timestamp":"2025-05-18T06:27:33.259Z"}
+{"level":"info","message":"Generated sentiment analysis and recommendations","timestamp":"2025-05-18T06:27:33.318Z"}
+{"level":"info","message":"✅ Server berjalan di port http://localhost:5000","timestamp":"2025-05-18T06:44:40.975Z"}
+{"level":"info","message":"✅ MongoDB terkoneksi","timestamp":"2025-05-18T06:44:40.998Z"}
+{"level":"info","message":"✅ Server berjalan di port http://localhost:5000","timestamp":"2025-05-18T06:45:48.606Z"}
+{"level":"info","message":"✅ MongoDB terkoneksi","timestamp":"2025-05-18T06:45:48.629Z"}
+{"level":"info","message":"Fetching sentiment statistics","timestamp":"2025-05-18T06:45:51.273Z"}
+{"level":"info","message":"Fetching random reviews","timestamp":"2025-05-18T06:45:51.280Z"}
+{"level":"info","message":"Fetching top keywords from reviews","timestamp":"2025-05-18T06:45:51.284Z"}
+{"level":"info","message":"Generating sentiment analysis","timestamp":"2025-05-18T06:45:51.295Z"}
+{"level":"info","message":"Found 3396 unique products in reviews","timestamp":"2025-05-18T06:45:51.317Z"}
+{"level":"info","message":"Total produk: 3687","timestamp":"2025-05-18T06:45:51.432Z"}
+{"level":"info","message":"Found 3396 unique products in reviews","timestamp":"2025-05-18T06:45:51.527Z"}
+{"level":"info","message":"Fetched stats: 3 sentiment types, 3 distribution items","timestamp":"2025-05-18T06:45:51.584Z"}
+{"level":"info","message":"Found 1000 positive reviews and 1000 negative reviews","timestamp":"2025-05-18T06:45:51.613Z"}
+{"level":"info","message":"Extracted 86 unique keywords (54 positive, 32 negative)","timestamp":"2025-05-18T06:45:51.635Z"}
+{"level":"info","message":"Fetched 3 random reviews from 114136 total reviews","timestamp":"2025-05-18T06:45:51.649Z"}
+{"level":"info","message":"Fetching sentiment statistics","timestamp":"2025-05-18T06:45:51.651Z"}
+{"level":"info","message":"Fetching top keywords from reviews","timestamp":"2025-05-18T06:45:51.655Z"}
+{"level":"info","message":"Fetching random reviews","timestamp":"2025-05-18T06:45:51.697Z"}
+{"level":"info","message":"Generated sentiment analysis and recommendations","timestamp":"2025-05-18T06:45:52.037Z"}
+{"level":"info","message":"Total produk: 3687","timestamp":"2025-05-18T06:45:52.046Z"}
+{"level":"info","message":"Generating sentiment analysis","timestamp":"2025-05-18T06:45:52.056Z"}
+{"level":"info","message":"Found 1000 positive reviews and 1000 negative reviews","timestamp":"2025-05-18T06:45:52.087Z"}
+{"level":"info","message":"Extracted 86 unique keywords (54 positive, 32 negative)","timestamp":"2025-05-18T06:45:52.105Z"}
+{"level":"info","message":"Fetched 3 random reviews from 114136 total reviews","timestamp":"2025-05-18T06:45:52.112Z"}
+{"level":"info","message":"Fetched stats: 3 sentiment types, 3 distribution items","timestamp":"2025-05-18T06:45:52.198Z"}
+{"level":"info","message":"Generated sentiment analysis and recommendations","timestamp":"2025-05-18T06:45:52.546Z"}
